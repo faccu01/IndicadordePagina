@@ -28,7 +28,7 @@ int main()
 
 		 << miPagina.devolverPaginaActual()
 
-		 << ", y \nla cantidad total de paginas del libro es de "
+		 << ", y la cantidad total de paginas del libro es de "
 
 		 << miPagina.devolverPaginasTotales()
 
